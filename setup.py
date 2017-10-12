@@ -147,6 +147,7 @@ setup(
         'slmq': extras('slmq.txt'),
         'qpid': extras('qpid.txt'),
         'consul': extras('consul.txt'),
+        'redis-cluster': extras('redis-cluster.txt'), 
     },
     classifiers=[
         'Development Status :: 5 - Production/Stable',
